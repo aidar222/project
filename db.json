@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "title": "macbook",
+      "type": "laptop",
+      "description": "apple",
+      "price": "1000",
+      "img1": "https://ixbt.online/live/topics/preview/00/02/64/02/eec9e7c0cb.jpg",
+      "img2": "https://ixbt.online/live/topics/preview/00/02/64/02/eec9e7c0cb.jpg",
+      "img3": "https://ixbt.online/live/topics/preview/00/02/64/02/eec9e7c0cb.jpg",
+      "id": 1
+    }
+  ]
+}
